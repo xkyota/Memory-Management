@@ -24,7 +24,6 @@ float average(int* array, int len)
     {
         sum_0 += *array++; 
     }
-
     return sum_0 / len; 
 }
 
