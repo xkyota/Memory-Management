@@ -18,7 +18,8 @@ int main(void){
             {
                 printf("%c", messages[i][j]); 
             }
-            else{
+            else
+            {
                 printf("\n"); 
                 break;
             }
